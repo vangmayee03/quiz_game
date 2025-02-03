@@ -1,0 +1,2 @@
+A quiz game in C is a console-based application where the user is presented with a series of questions, typically multiple choice or true/false, and they have to provide answers. The program evaluates the user's answers, tracks the score, and gives feedback based on correctness.![image](https://github.com/user-attachments/assets/cb1976be-61ce-4461-b5bf-ba7eed553985)
+![image](https://github.com/user-attachments/assets/017bd6ac-9772-435b-af3f-1250bc418ac8)
